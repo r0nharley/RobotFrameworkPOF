@@ -34,12 +34,18 @@ Test Dependacies:
 
 <pre>robot -d results FormStack_Automation_Ex/ExecuteTestCases.robot</pre>
 
-<b>Test Results<b/>
-
 
 Helpful Pycharm Plugins:
 
 <pre>IntelliBot</pre>
 <pre>Robot Framework Support</pre>
+
+<b>Test Results<b/>
+  
+Test results are displayed as a log, report, or as xml.  The logs are reports provide a detailed view of the test suite. They also allow you to drill into the each test which is helpful for test debugging. If there is a failed test Robot Framework included a screen shot of the point of failure.
+
+Test results can be found in the results folder.
+
+
 
 
