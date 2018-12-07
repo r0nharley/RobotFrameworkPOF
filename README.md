@@ -39,7 +39,7 @@ Robot Framework is a generic test automation framework for acceptance testing an
 
 <h4>Test Results</h4>
   
-Test results are displayed as a log, report, or as xml.  The logs are reports provide a detailed view of the test suite. They also allow you to drill into the each test which is helpful for test debugging. If there is a failed test Robot Framework included a screen shot of the point of failure.
+Test results are displayed as a log, report, or as xml.  The logs and reports provide a detailed view of the test suite. They also allow you to drill into the each test which is helpful for test debugging. If there is a failed test Robot Framework includes a screen shot of the point of failure.
 
 Test results can be found in the results folder.
 
