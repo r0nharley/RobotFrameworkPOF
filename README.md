@@ -22,11 +22,24 @@ Test Dependacies:
 
 <pre>pip install robotframework</pre>
 
+<b>Install the SeleniumLibrary for RF w/ pip:</b>
 
-<pre>pip install -U robotframework-difflibrary</pre>
+<pre>pip install --upgrade robotframework-seleniumlibrary</pre
 
 <b>Install chromedriver</b>
+
+<pre>brew install chromedriver</pre>
 
 <b>Run the tests</b>
 
 <pre>robot -d results FormStack_Automation_Ex/ExecuteTestCases.robot</pre>
+
+<b>Test Results<b/>
+
+
+Helpful Pycharm Plugins:
+
+<pre>IntelliBot</pre>
+<pre>Robot Framework Support</pre>
+
+
