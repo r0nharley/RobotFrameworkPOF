@@ -54,7 +54,7 @@ https://screencast.com/t/5aQjWIKqHv
 https://screencast.com/t/BQ2go33625
 
 
-<b>Test Execution Video: This is a video of full test suite being executed</b>
+<b>Test Execution Video: This is a video of the full test suite being executed</b>
 
 https://screencast.com/t/teFmLpHaxxK
 
