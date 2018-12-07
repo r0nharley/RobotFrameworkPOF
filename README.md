@@ -2,12 +2,12 @@
 
 
 
-Formstack Automation with Robot Framework POC
+<h1>Formstack Automation with Robot Framework POC</h1>
 
 Robot Framework is a generic test automation framework for acceptance testing and acceptance test-driven development (ATDD). It has easy-to-use tabular test data syntax and it utilizes the keyword-driven testing approach. Its testing capabilities can be extended by test libraries implemented either with Python or Java, and users can create new higher-level keywords from existing ones using the same syntax that is used for creating test cases.
 
 
-This automated test steps through the following workflows:
+<h4>This automated test steps through the following workflows:</h4>
 
 1. Sign in
 2. Document Search
@@ -16,7 +16,7 @@ This automated test steps through the following workflows:
 
 
 
-Test Dependacies:
+<h4>Test Dependacies:</h4>
 
 <b>Install Robot Framework w/ pip:</b>
 
@@ -35,17 +35,30 @@ Test Dependacies:
 <pre>robot -d results FormStack_Automation_Ex/ExecuteTestCases.robot</pre>
 
 
-Helpful Pycharm Plugins:
+<h4>Helpful Pycharm Plugins:</h4>
 
 <pre>IntelliBot</pre>
 <pre>Robot Framework Support</pre>
 
-<b>Test Results<b/>
+<h4>Test Results</h4>
   
 Test results are displayed as a log, report, or as xml.  The logs are reports provide a detailed view of the test suite. They also allow you to drill into the each test which is helpful for test debugging. If there is a failed test Robot Framework included a screen shot of the point of failure.
 
 Test results can be found in the results folder.
 
 
+
+<b>Test Log Example:</b>
+
+https://screencast.com/t/5aQjWIKqHv
+
+<b>Test Report Example:</b>
+
+https://screencast.com/t/BQ2go33625
+
+
+<b>Test Execution Video: This is a video of full test suite being executed</b>
+
+https://screencast.com/t/teFmLpHaxxK
 
 
