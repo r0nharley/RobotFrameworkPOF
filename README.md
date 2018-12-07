@@ -1,5 +1,5 @@
 
-<h1>Formstack Automation with Robot Framework Proof Of Concept</h1>
+<h1>Formstack Automation with Robot Framework</h1>
 
 Robot Framework is a generic test automation framework for acceptance testing and acceptance test-driven development (ATDD). It has easy-to-use tabular test data syntax and it utilizes the keyword-driven testing approach. Its testing capabilities can be extended by test libraries implemented either with Python or Java, and users can create new higher-level keywords from existing ones using the same syntax that is used for creating test cases.
 
