@@ -29,7 +29,7 @@ Robot Framework is a generic test automation framework for acceptance testing an
 
 <b>Run the tests</b>
 
-<pre>robot -d results FormStack_Automation_Ex/ExecuteTestCases.robot</pre>
+<pre>robot -d results FormSwift_Automation_Ex/ExecuteTestCases.robot</pre>
 
 
 <h4>Helpful Pycharm Plugins:</h4>
