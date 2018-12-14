@@ -1,5 +1,5 @@
 
-<h1>FormSwift Automation with Robot Framework</h1>
+<h1>Test Automation with Robot Framework</h1>
 
 Robot Framework is a generic test automation framework for acceptance testing and acceptance test-driven development (ATDD). It has easy-to-use tabular test data syntax and it utilizes the keyword-driven testing approach. Its testing capabilities can be extended by test libraries implemented either with Python or Java, and users can create new higher-level keywords from existing ones using the same syntax that is used for creating test cases.
 
@@ -29,7 +29,7 @@ Robot Framework is a generic test automation framework for acceptance testing an
 
 <b>Run the tests</b>
 
-<pre>robot -d results FormSwift_Automation_Ex/ExecuteTestCases.robot</pre>
+<pre>robot -d results RobotFrameworkPOF/ExecuteTestCases.robot</pre>
 
 
 <h4>Helpful Pycharm Plugins:</h4>
